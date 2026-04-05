@@ -83,16 +83,16 @@ To detect fraud patterns, monitor high-risk transactions, and provide actionable
 ## 📸 Dashboard Preview
 
 ### 🔹 Executive Summary
-![Executive Summary]([Images/page1.png](https://github.com/vikrant266/credit_card_fraud_analysis/blob/main/Images/Executive_summary.png?raw=true))
+![Executive Summary]([[Images/page1.png](https://github.com/vikrant266/credit_card_fraud_analysis/blob/main/Images/Executive_summary.png?raw=true)](https://github.com/vikrant266/credit_card_fraud_analysis/blob/main/Images/Executive_summary.png))
 
 ### 🔹 Root Cause Analysis
-![RCA](Images/page2.png)
+![RCA]((https://github.com/vikrant266/credit_card_fraud_analysis/blob/main/Images/Predictive_insight.png))
 
 ### 🔹 Risk Monitoring
-![Risk Monitoring](Images/page3.png)
+![Risk Monitoring](https://github.com/vikrant266/credit_card_fraud_analysis/blob/main/Images/Risk_monitoring_%26_action.png)
 
 ### 🔹 Predictive Insights
-![Forecast](Images/page4.png)
+![Forecast](https://github.com/vikrant266/credit_card_fraud_analysis/blob/main/Images/Root_cause_analysis.png)
 
 ---
 
