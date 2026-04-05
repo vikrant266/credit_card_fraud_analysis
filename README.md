@@ -113,7 +113,6 @@ Aspiring Data Analyst | Power BI Developer
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: (Add your link here)
-- GitHub: (Add your profile link)
+- LinkedIn: (https://www.linkedin.com/in/vikrant-mahajan-b63a9520a/)
 
 ---
